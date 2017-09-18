@@ -21,3 +21,4 @@ npm run start
 npm run startwin
 ```
 
+navigate to: http://localhost:3000/
