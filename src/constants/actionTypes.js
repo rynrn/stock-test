@@ -1,0 +1,7 @@
+export const STOCKS_LOADED = 'STOCKS_LOADED';
+export const STOCKS_FAILD = 'STOCKS_FAILD';
+export const LOADING_STOCKS = 'LOADING_STOCKS';
+export const STOCK_LOADED = 'STOCK_LOADED';
+export const STOCK_FAILD = 'STOCK_FAILD';
+export const LOADING_STOCK = 'LOADING_STOCK';
+export const CHANGE_DATA_TYPE = 'CHANGE_DATA_TYPE';
